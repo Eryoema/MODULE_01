@@ -122,7 +122,7 @@ namespace DOM
         }
     }
 
-    class DOM
+    class Program
     {
         static void Main(string[] args)
         {
